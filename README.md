@@ -1,0 +1,2 @@
+# ClimateIQ
+Basic React app
